@@ -39,26 +39,6 @@ A comprehensive **Retrieval-Augmented Generation (RAG)** system built with FastA
 - **PyPDF** - PDF document processing
 - **LangChain Text Splitters** - Intelligent document chunking
 
-## 📁 Project Structure
-
-```
-RAG_LangChain/
-├── backend/
-│   ├── agent.py          # LangGraph agent with routing logic
-│   ├── config.py         # Configuration and environment variables
-│   ├── main.py           # FastAPI application and endpoints
-│   └── vectorstore.py    # Pinecone vector database operations
-├── frontend/
-│   ├── app.py            # Main Streamlit application
-│   ├── backend_api.py    # API client for backend communication
-│   ├── config.py         # Frontend configuration
-│   ├── session_manager.py # Chat session management
-│   └── ui_components.py  # Reusable UI components
-├── .env                  # Environment variables (API keys, config)
-├── requirements.txt      # Python dependencies
-└── main.py              # Root FastAPI app (health check)
-```
-
 ## 🔧 Installation & Setup
 
 ### Prerequisites
