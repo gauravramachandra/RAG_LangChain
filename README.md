@@ -52,8 +52,8 @@ A comprehensive **Retrieval-Augmented Generation (RAG)** system built with FastA
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/gauravramachandra/RAG_LangChain.git
-cd RAG_LangChain
+git clone https://github.com/gauravramachandra/RAG_pdf-and-websearch_agent.git
+cd RAG_pdf-and-websearch_agent
 ```
 
 ### 2. Install Dependencies
